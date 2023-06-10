@@ -8,11 +8,6 @@ This repository contains example code for a Constrained Application Protocol (Co
 
 - For the CoAP client, you'll need a C compiler such as GCC.
 - For the CoAP server, you'll need Python 3.x.
-
-### Cloning the Repository
-
-To clone the repository, use the following command:
-git clone <repository-url>
   
 Replace `<repository-url>` with the URL of this repository.
 
