@@ -50,3 +50,22 @@ cd server_directory
 python server.py
 ```
 The server will start and listen on the default CoAP port (5683).
+ ## Resources
+
+The server exposes the following resources:
+
+- `/temp` - Represents temperature in Celsius.
+- `/light` - Represents the state of a light (on/off).
+- `/button` - Represents the state of a button (on/off).
+
+Clients can perform CoAP GET, PUT, and POST requests on these resources.
+
+## Authors
+
+- Belal Abulabn
+
+## Acknowledgments
+
+- Mongoose library
+- lwIP library
+- CoAPthon library
