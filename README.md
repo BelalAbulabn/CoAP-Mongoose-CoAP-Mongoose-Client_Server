@@ -43,4 +43,9 @@ Install the CoAPthon library using pip:
 ```sh
 pip install CoAPthon
 ```
-
+### Running the Server
+Navigate to the server directory and run the server using Python:
+```sh
+cd server_directory
+python server.py
+```
