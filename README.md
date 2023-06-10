@@ -49,3 +49,4 @@ Navigate to the server directory and run the server using Python:
 cd server_directory
 python server.py
 ```
+The server will start and listen on the default CoAP port (5683).
