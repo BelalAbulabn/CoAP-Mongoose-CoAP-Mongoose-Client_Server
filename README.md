@@ -27,9 +27,10 @@ Navigate to the client directory and use the makefile to build the client.
 ```sh
 cd client_directory
 make
-```markdown
 ### Running the Client
+
 After building, you can run the client using:
 
-sh
+```sh
 ./client_executable
+
