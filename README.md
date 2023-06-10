@@ -34,4 +34,10 @@ After building, you can run the client using:
 
 ```sh
 ./client_executable
+```
+## CoAP Server
+The CoAP server is implemented in Python using the CoAPthon library. It exposes resources such as temperature, light, and button states over CoAP.
+
+### Installing Dependencies
+Install the CoAPthon library using pip:
 
