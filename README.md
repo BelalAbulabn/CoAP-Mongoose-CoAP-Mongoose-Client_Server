@@ -40,4 +40,7 @@ The CoAP server is implemented in Python using the CoAPthon library. It exposes 
 
 ### Installing Dependencies
 Install the CoAPthon library using pip:
+```sh
+pip install CoAPthon
+```
 
